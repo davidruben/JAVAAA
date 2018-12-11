@@ -1,0 +1,7 @@
+server:
+  port: 8080
+  contextPath: /firstSpring
+spring:
+    datasource:
+      password: root
+      url: jdbc:mysql://localhost:3306/wilydb?user=root
